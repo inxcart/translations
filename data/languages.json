@@ -1,0 +1,380 @@
+{
+  "af-za": {
+    "nameEnglish": "Afrikaans",
+    "nameExtra": "",
+    "isoTwo": "af",
+    "flag": "za"
+  },
+  "sq-al": {
+    "nameEnglish": "Albanian",
+    "nameExtra": "",
+    "isoTwo": "sq",
+    "flag": "al"
+  },
+  "ar-ae": {
+    "nameEnglish": "Arabic",
+    "nameExtra": "",
+    "isoTwo": "ar",
+    "flag": "ae"
+  },
+  "hy-am": {
+    "nameEnglish": "Armenian",
+    "nameExtra": "",
+    "isoTwo": "hy",
+    "flag": "am"
+  },
+  "az-az": {
+    "nameEnglish": "Azerbaijani",
+    "nameExtra": "",
+    "isoTwo": "az",
+    "flag": "az"
+  },
+  "bn-in": {
+    "nameEnglish": "Bengali",
+    "nameExtra": "",
+    "isoTwo": "bn",
+    "flag": "in"
+  },
+  "br-fr": {
+    "nameEnglish": "Breton",
+    "nameExtra": "",
+    "isoTwo": "br",
+    "flag": "fr"
+  },
+  "bg-bg": {
+    "nameEnglish": "Bulgarian",
+    "nameExtra": "",
+    "isoTwo": "bg",
+    "flag": "bg"
+  },
+  "ca": {
+    "nameEnglish": "Catalan",
+    "nameExtra": "",
+    "isoTwo": "ca",
+    "flag": "es"
+  },
+  "zh-cn": {
+    "nameEnglish": "Chinese Simplified",
+    "nameExtra": "",
+    "isoTwo": "zh",
+    "flag": "cn"
+  },
+  "zh-tw": {
+    "nameEnglish": "Chinese Traditional",
+    "nameExtra": "",
+    "isoTwo": "zh",
+    "flag": "tw"
+  },
+  "hr-hr": {
+    "nameEnglish": "Croatian",
+    "nameExtra": "",
+    "isoTwo": "hr",
+    "flag": "hr"
+  },
+  "cs-cz": {
+    "nameEnglish": "Czech",
+    "nameExtra": "",
+    "isoTwo": "cs",
+    "flag": "cz"
+  },
+  "da-dk": {
+    "nameEnglish": "Danish",
+    "nameExtra": "",
+    "isoTwo": "da",
+    "flag": "dk"
+  },
+  "nl-nl": {
+    "nameEnglish": "Dutch",
+    "nameExtra": "",
+    "isoTwo": "nl",
+    "flag": "nl"
+  },
+  "en-us": {
+    "nameEnglish": "English",
+    "nameExtra": "",
+    "isoTwo": "en",
+    "flag": "us"
+  },
+  "en-gb": {
+    "nameEnglish": "English",
+    "nameExtra": "British",
+    "isoTwo": "gb",
+    "flag": "gb"
+  },
+  "et-et": {
+    "nameEnglish": "Estonian",
+    "nameExtra": "",
+    "isoTwo": "et",
+    "flag": "et"
+  },
+  "fi-fi": {
+    "nameEnglish": "Finnish",
+    "nameExtra": "",
+    "isoTwo": "fi",
+    "flag": "fi"
+  },
+  "fr-fr": {
+    "nameEnglish": "French",
+    "nameExtra": "",
+    "isoTwo": "fr",
+    "flag": "fr"
+  },
+  "fr-qc": {
+    "nameEnglish": "French",
+    "nameExtra": "Quebec",
+    "isoTwo": "qc",
+    "flag": "ca"
+  },
+  "gl-es": {
+    "nameEnglish": "Galician",
+    "nameExtra": "",
+    "isoTwo": "gl",
+    "flag": "es"
+  },
+  "ka-ge": {
+    "nameEnglish": "Georgian",
+    "nameExtra": "",
+    "isoTwo": "ka",
+    "flag": "ge"
+  },
+  "de-de": {
+    "nameEnglish": "German",
+    "nameExtra": "",
+    "isoTwo": "de",
+    "flag": "de"
+  },
+  "de-ch": {
+    "nameEnglish": "German",
+    "nameExtra": "Switzerland",
+    "isoTwo": "de",
+    "flag": "ch"
+  },
+  "el-gr": {
+    "nameEnglish": "Greek",
+    "nameExtra": "",
+    "isoTwo": "el",
+    "flag": "gr"
+  },
+  "he-il": {
+    "nameEnglish": "Hebrew",
+    "nameExtra": "",
+    "isoTwo": "he",
+    "flag": "il"
+  },
+  "hu-hu": {
+    "nameEnglish": "Hungarian",
+    "nameExtra": "",
+    "isoTwo": "hu",
+    "flag": "hu"
+  },
+  "id-id": {
+    "nameEnglish": "Indonesian",
+    "nameExtra": "",
+    "isoTwo": "id",
+    "flag": "id"
+  },
+  "ga-ie": {
+    "nameEnglish": "Irish",
+    "nameExtra": "",
+    "isoTwo": "ga",
+    "flag": "ie"
+  },
+  "it-it": {
+    "nameEnglish": "Italian",
+    "nameExtra": "",
+    "isoTwo": "it",
+    "flag": "it"
+  },
+  "ja-jp": {
+    "nameEnglish": "Japanese",
+    "nameExtra": "",
+    "isoTwo": "ja",
+    "flag": "jp"
+  },
+  "ko-kr": {
+    "nameEnglish": "Korean",
+    "nameExtra": "",
+    "isoTwo": "ko",
+    "flag": "kr"
+  },
+  "lo-la": {
+    "nameEnglish": "Lao",
+    "nameExtra": "",
+    "isoTwo": "lo",
+    "flag": "la"
+  },
+  "lv-lv": {
+    "nameEnglish": "Latvian",
+    "nameExtra": "",
+    "isoTwo": "lv",
+    "flag": "lv"
+  },
+  "lt-lt": {
+    "nameEnglish": "Lithuanian",
+    "nameExtra": "",
+    "isoTwo": "lt",
+    "flag": "lt"
+  },
+  "mk-mk": {
+    "nameEnglish": "Macedonian",
+    "nameExtra": "",
+    "isoTwo": "mk",
+    "flag": "mk"
+  },
+  "ms-my": {
+    "nameEnglish": "Malay",
+    "nameExtra": "",
+    "isoTwo": "ms",
+    "flag": "my"
+  },
+  "ml-in": {
+    "nameEnglish": "Malayalam",
+    "nameExtra": "",
+    "isoTwo": "ml",
+    "flag": "in"
+  },
+  "no-no": {
+    "nameEnglish": "Norwegian",
+    "nameExtra": "",
+    "isoTwo": "no",
+    "flag": "no"
+  },
+  "nn-no": {
+    "nameEnglish": "Norwegian",
+    "nameExtra": "Nynorsk",
+    "isoTwo": "nn",
+    "flag": "no"
+  },
+  "fa-ir": {
+    "nameEnglish": "Persian",
+    "nameExtra": "",
+    "isoTwo": "fa",
+    "flag": "ir"
+  },
+  "pl-pl": {
+    "nameEnglish": "Polish",
+    "nameExtra": "",
+    "isoTwo": "pl",
+    "flag": "pl"
+  },
+  "pt-pt": {
+    "nameEnglish": "Portuguese",
+    "nameExtra": "",
+    "isoTwo": "pt",
+    "flag": "pt"
+  },
+  "pt-br": {
+    "nameEnglish": "Portuguese",
+    "nameExtra": "Brazilian",
+    "isoTwo": "pt",
+    "flag": "br"
+  },
+  "ro-ro": {
+    "nameEnglish": "Romanian",
+    "nameExtra": "",
+    "isoTwo": "ro",
+    "flag": "ro"
+  },
+  "ru-ru": {
+    "nameEnglish": "Russian",
+    "nameExtra": "",
+    "isoTwo": "ru",
+    "flag": "ru"
+  },
+  "sr-rs": {
+    "nameEnglish": "Serbian",
+    "nameExtra": "Latin",
+    "isoTwo": "sr",
+    "flag": "rs"
+  },
+  "si-lk": {
+    "nameEnglish": "Sinhala",
+    "nameExtra": "",
+    "isoTwo": "si",
+    "flag": "lk"
+  },
+  "sk-sk": {
+    "nameEnglish": "Slovak",
+    "nameExtra": "",
+    "isoTwo": "sk",
+    "flag": "sk"
+  },
+  "sl-si": {
+    "nameEnglish": "Slovenian",
+    "nameExtra": "",
+    "isoTwo": "sl",
+    "flag": "si"
+  },
+  "es-es": {
+    "nameEnglish": "Spanish",
+    "nameExtra": "",
+    "isoTwo": "es",
+    "flag": "es"
+  },
+  "es-ar": {
+    "nameEnglish": "Spanish",
+    "nameExtra": "Argentina",
+    "isoTwo": "es",
+    "flag": "ar"
+  },
+  "es-co": {
+    "nameEnglish": "Spanish",
+    "nameExtra": "Colombia",
+    "isoTwo": "es",
+    "flag": "co"
+  },
+  "es-mx": {
+    "nameEnglish": "Spanish",
+    "nameExtra": "Mexico",
+    "isoTwo": "es",
+    "flag": "mx"
+  },
+  "sw-ke": {
+    "nameEnglish": "Swahili",
+    "nameExtra": "",
+    "isoTwo": "sw",
+    "flag": "ke"
+  },
+  "sv-se": {
+    "nameEnglish": "Swedish",
+    "nameExtra": "",
+    "isoTwo": "sv",
+    "flag": "se"
+  },
+  "th-th": {
+    "nameEnglish": "Thai",
+    "nameExtra": "",
+    "isoTwo": "th",
+    "flag": "th"
+  },
+  "tr-tr": {
+    "nameEnglish": "Turkish",
+    "nameExtra": "",
+    "isoTwo": "tr",
+    "flag": "tr"
+  },
+  "uk-ua": {
+    "nameEnglish": "Ukranian",
+    "nameExtra": "",
+    "isoTwo": "uk",
+    "flag": "ua"
+  },
+  "ur-pk": {
+    "nameEnglish": "Urdu",
+    "nameExtra": "Pakistan",
+    "isoTwo": "ur",
+    "flag": "pk"
+  },
+  "ug-cn": {
+    "nameEnglish": "Uyghur",
+    "nameExtra": "",
+    "isoTwo": "ug",
+    "flag": "cn"
+  },
+  "vi-vn": {
+    "nameEnglish": "Vietnamese",
+    "nameExtra": "",
+    "isoTwo": "vi",
+    "flag": "vn"
+  }
+}
