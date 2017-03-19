@@ -1,0 +1,317 @@
+[
+  {
+    "version": "1.0.0",
+    "iso_code": "af",
+    "name": "Afrikaans (Afrikaans)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "az",
+    "name": "Az\u0259rbaycan dili (Azerbaijani)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "id",
+    "name": "Bahasa Indonesia (Indonesian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ms",
+    "name": "Bahasa melayu (Malay)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "no",
+    "name": "Bokm\u00e5l (Norwegian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "bz",
+    "name": "Brezhoneg (Breton)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ca",
+    "name": "Catal\u00e0 (Catalan)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "cs",
+    "name": "\u010ce\u0161tina (Czech)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "da",
+    "name": "Dansk (Danish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "de",
+    "name": "Deutsch (German)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "dh",
+    "name": "Deutsch CH (German)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "et",
+    "name": "Eesti keel (Estonian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "en",
+    "name": "English (United States)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "gb",
+    "name": "English GB (English)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "es",
+    "name": "Espa\u00f1ol (Spanish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ag",
+    "name": "Espa\u00f1ol AR ( Spanish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "cb",
+    "name": "Espa\u00f1ol CO ( Spanish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "mx",
+    "name": "Espa\u00f1ol MX (Spanish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "eo",
+    "name": "Esperanto"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "fr",
+    "name": "Fran\u00e7ais (French)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "qc",
+    "name": "Fran\u00e7ais CA (French)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ga",
+    "name": "Gaeilge (Gaelic)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "gl",
+    "name": "Galego (Galician)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "hr",
+    "name": "Hrvatski (Croatian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "it",
+    "name": "Italiano (Italian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "lv",
+    "name": "Latvie\u0161u valoda (Latvian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "lt",
+    "name": "Lietuvi\u0173 kalba (Lithuanian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "hu",
+    "name": "Magyar (Hungarian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "nl",
+    "name": "Nederlands (Dutch)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "nn",
+    "name": "Nynorsk (Norwegian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "pl",
+    "name": "Polski (Polish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "br",
+    "name": "Portugu\u00eas BR (Portuguese)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "pt",
+    "name": "Portugu\u00eas PT (Portuguese)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ro",
+    "name": "Rom\u00e2n\u0103 (Romanian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "sq",
+    "name": "Shqip (Albanian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "sk",
+    "name": "Sloven\u010dina (Slovak)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "si",
+    "name": "Sloven\u0161\u010dina (Slovene)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "fi",
+    "name": "Suomi (Finnish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "sv",
+    "name": "Svenska (Swedish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "vn",
+    "name": "Ti\u1ebfng Vi\u1ec7t (Vietnamese)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "tr",
+    "name": "T\u00fcrk\u00e7e (Turkish)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "el",
+    "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac (Greek)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "bg",
+    "name": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a (Bulgarian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "mk",
+    "name": "\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 (Macedonian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ru",
+    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "sr",
+    "name": "\u0441\u0440\u043f\u0441\u043a\u0438 (Serbian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "uk",
+    "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 (Ukrainian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "hy",
+    "name": "\u0540\u0561\u0575\u0565\u0580\u0567\u0576 (Armenian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "he",
+    "name": "\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ug",
+    "name": "\u0626\u06c7\u064a\u063a\u06c7\u0631 (Uyghur)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ur",
+    "name": "\u0627\u0631\u062f\u0648 (Urdu)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ar",
+    "name": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 (Arabic)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "sh",
+    "name": "\u0633\u0646\u068c\u064a (Sinhala)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "fa",
+    "name": "\u0641\u0627\u0631\u0633\u0649 (Persian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "bn",
+    "name": "\u09ac\u09be\u0982\u09b2\u09be (Bengali)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ml",
+    "name": "\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 (Malayalam)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "th",
+    "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22 (Thai)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "lo",
+    "name": "\u0e9e\u0eb2\u0eaa\u0eb2\u0ea5\u0eb2\u0ea7 (Lao)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ka",
+    "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8 (Georgian)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "zh",
+    "name": "\u4e2d\u6587 (Simplified Chinese)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ja",
+    "name": "\u65e5\u672c\u8a9e (Japanese)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "tw",
+    "name": "\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)"
+  },
+  {
+    "version": "1.0.0",
+    "iso_code": "ko",
+    "name": "\ud55c\uad6d\uc5b4 (Korean)"
+  }
+]
