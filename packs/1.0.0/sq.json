@@ -1,0 +1,9 @@
+{
+  "name": "Shqip (Albanian)",
+  "iso_code": "sq",
+  "version": "1.0.0",
+  "date_format_lite": "dd-mm-yyyy",
+  "date_format_full": "dd-mm-yyyy H:i:s",
+  "is_rtl": false,
+  "language_code": "sq-al"
+}
