@@ -1,0 +1,9 @@
+{
+  "name": "\u4e2d\u6587 (Simplified Chinese)",
+  "iso_code": "zh",
+  "version": "1.0.1",
+  "date_format_lite": "Y-m-d",
+  "date_format_full": "Y-m-d H:i:s",
+  "is_rtl": false,
+  "language_code": "zh-cn"
+}

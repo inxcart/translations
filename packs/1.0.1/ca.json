@@ -1,0 +1,9 @@
+{
+  "name": "Catal\u00e0 (Catalan)",
+  "iso_code": "ca",
+  "version": "1.0.1",
+  "date_format_lite": "d\/m\/Y",
+  "date_format_full": "Y-m-d H:i:s",
+  "is_rtl": false,
+  "language_code": "ca-es"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Deutsch CH (German)",
+  "iso_code": "dh",
+  "version": "1.0.1",
+  "date_format_lite": "d.m.Y",
+  "date_format_full": "d.m.Y H:i:s",
+  "is_rtl": false,
+  "language_code": "de-CH"
+}

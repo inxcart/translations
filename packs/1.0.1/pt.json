@@ -1,0 +1,9 @@
+{
+  "name": "Portugu\u00eas PT (Portuguese)",
+  "iso_code": "pt",
+  "version": "1.0.1",
+  "date_format_lite": "Y-m-d",
+  "date_format_full": "Y-m-d H:i:s",
+  "is_rtl": false,
+  "language_code": "pt-pt"
+}
