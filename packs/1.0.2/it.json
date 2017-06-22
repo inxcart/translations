@@ -1,0 +1,9 @@
+{
+  "name": "Italiano (Italian)",
+  "iso_code": "it",
+  "version": "1.0.2",
+  "date_format_lite": "d\/m\/Y",
+  "date_format_full": "d\/m\/Y H:i:s",
+  "is_rtl": false,
+  "language_code": "it-it"
+}
