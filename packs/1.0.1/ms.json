@@ -1,9 +1,0 @@
-{
-  "name": "Bahasa melayu (Malay)",
-  "iso_code": "ms",
-  "version": "1.0.1",
-  "date_format_lite": "d MMMM yyyy",
-  "date_format_full": "d MMMM yyyy h:mm:ss",
-  "is_rtl": false,
-  "language_code": "ms-my"
-}

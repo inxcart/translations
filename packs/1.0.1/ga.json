@@ -1,9 +1,0 @@
-{
-  "name": "Gaeilge (Gaelic)",
-  "iso_code": "ga",
-  "version": "1.0.1",
-  "date_format_lite": "dd\/mm\/yyyy",
-  "date_format_full": "dd\/mm\/yyyy HH:mm:ss",
-  "is_rtl": false,
-  "language_code": "ga-ie"
-}

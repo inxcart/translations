@@ -1,9 +1,0 @@
-{
-  "name": "Eesti keel (Estonian)",
-  "iso_code": "et",
-  "version": "1.0.0",
-  "date_format_lite": "Y-m-d",
-  "date_format_full": "Y-m-d H:i:s",
-  "is_rtl": false,
-  "language_code": "et-ee"
-}

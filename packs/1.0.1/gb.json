@@ -1,9 +1,0 @@
-{
-  "name": "English GB (English)",
-  "iso_code": "gb",
-  "version": "1.0.1",
-  "date_format_lite": "Y-m-d",
-  "date_format_full": "Y-m-d H:i:s",
-  "is_rtl": false,
-  "language_code": "en-gb"
-}

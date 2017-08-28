@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  
+  <head>
+  <meta charset="UTF-8">
+  <title>thirty bees translations</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <script type="text/javascript" src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/minimalbootstrap.css">
+  <script type="text/javascript" src="/js/minimalbootstrap.js"></script>
+  <link href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css" rel="stylesheet" type="text/css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js"></script>
+  <link rel="stylesheet" href="/css/cayman.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/flag-icons/css/flag-icon.min.css">
+</head>
+
+
+  <body>
+    <section class="page-header">
+  <h1 class="project-name">thirty bees translations</h1>
+  <h2 class="project-tagline"></h2>
+  <a href="https://crowdin.com/project/thirty-bees" class="headerbtn">View on CrowdIn</a>
+</section>
+
+
+    <section class="main-content">
+      
+      <h2 id="welcome-to-the-thirty-bees-translations-page">Welcome to the thirty bees translations page</h2>
+
+<p>On this page you will find the language packs you can use to translate thirty bees.</p>
+
+<h2 id="languages">Languages</h2>
+
+<script type="text/javascript">
+  (function() {
+    var deferredLanguages = $.get('/data/languages.json');
+    var deferredVersions = $.get('/data/versions.json');
+
+    $.when(deferredLanguages, deferredVersions).done(function () {
+      var languages = deferredLanguages.responseJSON;
+      var versions = deferredVersions.responseJSON;
+
+      // Build version and language selector
+      var $languagePickerContainer = $('#language-picker');
+
+      var $languagePicker = $('<select class="languagepicker" data-live-search="true"></select>');
+      $option = $('<option value="all">All</option>');
+      $languagePicker.append($option);
+
+      $.each(languages, function (ietf, language) {
+        $option = $('<option value="' + ietf + '">' + language.nameEnglish + '</option>');
+        $languagePicker.append($option);
+      });
+      $languagePickerContainer.prepend($languagePicker);
+
+      var $versionPicker = $('<select class="versionpicker" data-live-search="true"></select>');
+      $.each(versions, function (index, version) {
+        $option = $('<option value="' + version + '">' + version + '</option>');
+        $versionPicker.append($option);
+      });
+      $languagePickerContainer.prepend($versionPicker);
+
+      $versionPicker.selectpicker({
+        style: 'btn-default',
+        size: 10
+      }).change(pickLanguage);
+
+      $languagePicker.selectpicker({
+        style: 'btn-default',
+        size: 10
+      }).change(pickLanguage);
+
+      function pickLanguage() {
+		var $languageList = $('#language-list');
+        $languageList.empty();
+        var selectedLanguage = $languagePicker.val();
+        var selectedVersion = $versionPicker.val();
+
+        $.each(languages, function(ietf, language) {
+          if (selectedLanguage && selectedLanguage !== 'all' && ietf !== selectedLanguage) {
+            return;
+          }
+
+          var $media = $('<div class="media"></div>');
+          var $link = $('<a href="/packs/' + selectedVersion + '/' + language.isoTwo + '.gzip"></a>');
+          $link.append('<div class="media-left"><span class="flag-icon flag-icon-' + language.flag + '"></span></div>');
+          $link.append('<div class="media-left">' + language.nameEnglish + (language.nameExtra ? ' (' + language.nameExtra + ')' : '') + '</div>');
+
+          $media.append($link);
+          $languageList.append($media);
+        });
+	  }
+
+	  pickLanguage();
+    });
+  })();
+</script>
+
+<div id="language-picker" class="language-picker">
+	<div id="language-list"></div>
+</div>
+
+<h2 id="how-to-install-a-language-pack">How to install a language pack</h2>
+
+<p>Simply pick the version and language you need and upload the package on the back office
+page <code class="highlighter-rouge">Localization</code> &gt; <code class="highlighter-rouge">Translations</code>, where you can manually import a language pack.</p>
+
+<p><img src="/images/importalanguagepack.png" alt="Import a language pack" class="center-image" /></p>
+
+
+      <footer class="site-footer">
+  <span class="site-footer-owner"><a href="http://localhost:4000">thirty bees translations</a> is maintained by <a href="http://thirtybees.com">thirty bees</a>.</span>
+</footer>
+
+
+    </section>
+
+  </body>
+</html>

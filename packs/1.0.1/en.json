@@ -1,9 +1,0 @@
-{
-  "name": "English (United States)",
-  "iso_code": "en",
-  "version": "1.0.1",
-  "date_format_lite": "m\/d\/Y",
-  "date_format_full": "m\/d\/Y H:i:s",
-  "is_rtl": false,
-  "language_code": "en-us"
-}
